@@ -1,0 +1,14 @@
+body {overflow: scroll}
+#container {display: flex;
+    flex-direction: row;
+}
+#container p {color: MediumAquamarine
+}
+.world {font-family: Verdana sans-serif;
+  font-size: 14px;
+  font-weight: bold;
+  display: inline-block;
+  align-items: baseline;
+    }
+.header {font-weight: bold;
+}
