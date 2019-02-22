@@ -1,4 +1,5 @@
 body {overflow: scroll}
+  }
 .container {display: flex;
     flex-direction: row;
 }
@@ -14,4 +15,17 @@ body {overflow: scroll}
 .header {font-weight: bold;
   margin-left: 10px;
   color: MediumAquamarine;
+}
+
+.maincontent {display: flex;
+}
+.column.large {width: 630px;
+}
+.column.medium {width: 300px;
+}
+.column.small {width: 240px;
+}
+.wine {background-image: url(https://s3.amazonaws.com/codecademy-content/courses/freelance-1/unit-4/img-story-main.png);
+height: 300px;
+width: 100%;
 }
