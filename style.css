@@ -1,5 +1,5 @@
 body {overflow: scroll}
-#container {display: flex;
+.container {display: flex;
     flex-direction: row;
 }
 #container p {color: MediumAquamarine
@@ -8,7 +8,10 @@ body {overflow: scroll}
   font-size: 14px;
   font-weight: bold;
   display: inline-block;
-  align-items: baseline;
-    }
+  margin-top: 9px;
+  margin-left: 200px;
+      }
 .header {font-weight: bold;
+  margin-left: 10px;
+  color: MediumAquamarine;
 }
